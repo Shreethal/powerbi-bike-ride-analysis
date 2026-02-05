@@ -45,5 +45,5 @@ The Power BI (.pbix) file is larger than GitHub’s upload limit.
 
 
 ### Average Ride Duration by Membership
-<img width="949" height="524" alt="Time_Analysis" src="https://github.com/user-attachments/assets/1ad77909-10ae-4dfb-8297-646bee1fe65a" />
+<img width="952" height="533" alt="Time Analysis" src="https://github.com/user-attachments/assets/2abd50cc-2ae2-4c97-a453-aff010bb77b4" />
 
