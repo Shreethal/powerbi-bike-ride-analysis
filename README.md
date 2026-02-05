@@ -38,3 +38,12 @@ The Power BI (.pbix) file is larger than GitHub’s upload limit.
 🔗 Download the Power BI file here:  
 [https://drive.google.com/your-link-here](https://drive.google.com/file/d/1DD4NXfP3xJ-CB8aAdnjcrLkhBQtU-7cM/view?usp=drive_link)
 
+## Dashboard Preview
+
+### Overall Dashboard
+<img width="1121" height="646" alt="dashboard_overview" src="https://github.com/user-attachments/assets/38d8ba1f-9dda-490f-bb62-2c6e19a13d5d" />
+
+
+### Average Ride Duration by Membership
+<img width="949" height="524" alt="Time_Analysis" src="https://github.com/user-attachments/assets/1ad77909-10ae-4dfb-8297-646bee1fe65a" />
+
