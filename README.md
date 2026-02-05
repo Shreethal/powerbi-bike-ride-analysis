@@ -32,3 +32,9 @@ ride patterns, and peak usage times using Power BI.
 
 ## File
 - Bike_Ride_Analysis.pbix
+## Power BI File
+The Power BI (.pbix) file is larger than GitHub’s upload limit.
+
+🔗 Download the Power BI file here:  
+[https://drive.google.com/your-link-here](https://drive.google.com/file/d/1DD4NXfP3xJ-CB8aAdnjcrLkhBQtU-7cM/view?usp=drive_link)
+
