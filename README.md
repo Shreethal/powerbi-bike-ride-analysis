@@ -5,7 +5,7 @@ This project analyzes bike ride usage data to understand customer behavior,
 ride patterns, and peak usage times using Power BI.
 
 ## Tools Used
-- Power BI
+- Power BI (Power Query for data cleaning and transformation)
 - Power Query
 - DAX
 - Excel / CSV Dataset
